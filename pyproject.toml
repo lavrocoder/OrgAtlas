@@ -1,0 +1,19 @@
+[project]
+name = "OrgAtlas"
+version = "1.0.0"
+description = "Тестовое задание для компании Secunda"
+authors = [
+    {name = "Евгений Лавров", email = "i@evgenylavrov.ru"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "alembic>=1.18.1",
+    "asyncpg>=0.31.0",
+    "fastapi>=0.128.0",
+    "pydantic>=2.12.5",
+    "pydantic-settings>=2.12.0",
+    "sqladmin>=0.22.0",
+    "sqlalchemy>=2.0.45",
+    "uvicorn>=0.40.0",
+]
