@@ -9,7 +9,7 @@
 1. Клонируйте репозиторий
 
 ```shell
-git clone 
+git clone https://github.com/lavrocoder/OrgAtlas
 ```
 
 2. Создайте файл `.env` на основе `.env.example`
